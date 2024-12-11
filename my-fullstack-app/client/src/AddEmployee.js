@@ -29,7 +29,7 @@ const AddEmployee = () => {
   return (
     <div
       style={{
-        padding: "20px",
+        padding: "25px",
         maxWidth: "300px",
         margin: "0 auto",
         border: "1px solid #ccc",
